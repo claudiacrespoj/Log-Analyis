@@ -1,0 +1,66 @@
+template
+Link error
+Server FileSystem Server FileSystem domain root <*> local full
+Fan speeds <*>
+Cluster FileSystem Server FileSystem domain <*>  <*> longer served node <*>
+<*> oot command <*>
+Component State Change Component <*> alt <*> the unavailable state <*>
+Cluster FileSystem Server FileSystem domain root <*> domain longer served node <*>
+starting
+normal
+Cluster FileSystem There server for Server FileSystem domain storage <*>
+psu failure ambient <*>
+IFF node <*> has detected available network connection network <*> via interface <*> <*>
+Cluster FileSystem Server FileSystem domain root domain longer served node <*>
+Cluster FileSystem Server FileSystem domain cluster <*>  backup longer served node <*>
+Cluster FileSystem Server FileSystem domain root <*> domain <*> longer served node <*>
+inconsistent node sets node <*> <*> 
+Cluster FileSystem Server FileSystem domain root <*> <*> longer served node <*>
+power control problem
+Link
+Cluster FileSystem Server FileSystem domain root <*> lo<*> nger served node <*>
+blocked
+Cluster FileSystem Server FileSystem domain root <*> <*>  longer served node <*>
+Targeting domains node <*> and nodes node <*> child command <*>
+not responding
+configured out
+IFF node <*> has detected available network connection network <*> via interface <*>
+Temperature <*> exceeds warning threshold
+Link reset
+active
+critical
+Cluster FileSystem Server FileSystem domain <*>  longer served node <*>
+Targeting domains node <*> and nodes node <*>
+wait command <*>
+Cluster FileSystem Server FileSystem domain root <*>  longer served node <*>
+warning
+link errors remain current
+Command has been aborted
+<*> t command <*>
+IFF node <*> <*>  network connection network <*> via interface alt <*>
+Cluster FileSystem Server FileSystem domain cluster <*> backup longer served node <*>
+Server FileSystem Server FileSystem domain panic has occurred storage <*>
+cluster Add Member command <*>
+boot Gen unix command <*>
+Link error broadcast tree Interconnect <*>
+Boot command <*> Error Timed out while waiting for SRM prompt ABORT code completed
+halt command <*>
+IFF node <*> has detected available network connection network <*> via interface <*>  <*>
+Component State Change Component <*> <*>  <*> the unavailable state <*>
+boot command <*>
+Server FileSystem Server FileSystem domain root <*> <*> full
+IFF node <*> has detected available network connection network <*> via interface alt <*>
+Cluster FileSystem Server FileSystem domain root <*> <*> backup longer served node <*>
+Cluster FileSystem Server FileSystem domain <*>  backup longer served node <*>
+inconsistent node sets node <*> node <*> node <*> node <*> node <*> node <*> node <*> node <*> fdf node <*> fdf node <*> fdf node <*> fdf node <*> fdf node <*> fdf
+ambient <*>
+Cluster FileSystem Server FileSystem domain root <*> local longer served node <*>
+running
+closing
+Link error event interval expired
+Failed sub commands <*>
+Cluster FileSystem Server FileSystem domain storage <*> longer served node <*>
+IFF node <*> <*>  <*>
+Command has completed successfully
+boot command <*> Error HALT asserted cannot continue
+inconsistent node sets node <*> ffffff node <*> ffffff node <*> ffffff node <*> ffffff node <*> ffffff

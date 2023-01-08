@@ -1,0 +1,327 @@
+template
+instance <*> <*> Took <*> seconds build instance
+instance <*> <*>  <*> cpu limit not specified defaulting unlimited
+instance <*>  <*> disk limit not specified defaulting unlimited
+instance <*> St<*> ed Lifecycle Event
+instance <*> e<*>  del
+instance <*> cba <*> Took <*> seconds <*>  the instance the hypervisor
+instance <*> ec <*> disk limit not specified defaulting unlimited
+instance <*>  <*> Instance spawned successfully
+instance <*>  <*> Instance destroyed successfully
+instance <*> <*>  Instance spawned successfully
+<*> <*>  <*> HTTP <*> status <*> len <*> time <*>
+<*> DELETE <*> fad <*> cdb aed <*> servers <*>  <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*> Took <*> seconds destroy the instance the hypervisor
+instance <*> ec <*> Paused Lifecycle Event
+<*> DELETE <*> fad <*> cdb aed <*> servers <*> e<*>  HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  <*> Claim successful
+instance <*> <*> c <*> During sync power state the instance has pending task spawning Skip
+<*> GET latest meta data block device mapping <*> HTTP <*> status <*> len <*> time <*>
+<*> GET latest meta data HTTP <*> status <*> len <*> time <*>
+instance <*> cb<*>  <*> disk limit not specified defaulting unlimited
+While synchronizing instance power states found <*> instances the database and <*> instances the hypervisor
+instance <*> cb<*>  limit not specified defaulting unlimited
+instance <*> bcc <*> Instance <*> ed successfully
+<*> DELETE <*> fad <*> cdb aed <*> servers <*> ec <*> HTTP <*> status <*> len <*> time <*>
+instance <*>  <*> Total disk <*> used <*>
+instance <*>  <*> cpu limit not specified defaulting unlimited
+instance <*> Creating image
+instance <*> cb<*>  <*> Took <*> seconds allocate network for instance
+instance <*> ec <*> Claim successful
+instance <*> fffdd <*> Creating image
+instance <*> <*>  <*> Resumed Lifecycle Event
+instance <*> <*>  <*> Instance spawned successfully
+HTTP exception thrown instances found for any event
+instance <*> <*> c <*> Total memory <*> used <*>
+Creating event network plugged <*> b<*>  <*> for instance <*>
+Creating event network plugged <*> ac<*>  <*>
+<*> GET latest meta data block device mapping HTTP <*> status <*> len <*> time <*>
+instance <*> Terminating instance
+<*> GET latest meta data p<*>  HTTP <*> status <*> len <*> time <*>
+instance <*> c <*> During sync power state the instance has pending task spawning Skip
+instance <*> <*>  memory limit <*> free <*>
+instance <*> <*> Paused Lifecycle Event
+instance f<*>  <*> Instance spawned successfully
+instance <*> <*> cba <*> Resumed Lifecycle Event
+instance <*> <*> cba <*> Took <*> seconds build instance
+instance <*> cb<*>  <*> Total memory <*> used <*>
+instance <*> <*>  <*> Creating image
+<*> GET <*> fad <*> cdb aed <*> servers <*> <*>  HTTP <*> status <*> len <*> time <*>
+instance <*> bcc <*> Total <*>  <*> used <*>
+instance <*> <*> memory limit <*> free <*>
+instance <*> ec <*> Total cpu <*> CPU used <*> CPU
+instance <*> <*> c <*> Took <*> seconds spawn the instance the hypervisor
+<*> GET latest meta data placement availability zone HTTP <*> status <*> len <*> time <*>
+Creating event network plugged <*> <*> for instance <*>
+<*> GET open stack <*> HTTP <*> status <*> len <*> time <*>
+instance <*> c <*> Creating image
+instance <*> <*> Instance spawned successfully
+instance <*> fffdd <*> <*>  limit not specified defaulting unlimited
+instance <*>  the instance the hypervisor
+instance <*> cb<*>  <*> During sync power state the instance has pending task spawning Skip
+instance <*> cb<*>  <*> Creating image
+instance <*> adf St<*> ed Lifecycle Event
+instance <*> ed Lifecycle Event
+instance <*>  Took <*> seconds destroy the instance the hypervisor
+<*> GET open stack <*> <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  <*> Total memory <*> used <*>
+<*> POST <*> server external events HTTP <*> status <*> len <*> time <*>
+Creating event network plugged <*> for instance <*> ec <*>
+<*> <*>  <*> fad <*> cdb aed <*> servers <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  Terminating instance
+instance <*> e<*>  the instance the hypervisor
+instance <*> Deletion var lib nova instances <*> del complete
+instance <*> adf Took <*> seconds <*>  the instance the hypervisor
+Creating event network plugged <*> for instance <*> <*>
+instance <*> adf During sync power state the instance has pending task spawning Skip
+<*> GET latest meta data local <*>  HTTP <*> status <*> len <*> time <*>
+instance <*>  <*> Took <*> seconds allocate network for instance
+<*> GET latest meta data <*> ami HTTP <*> status <*> len <*> time <*>
+<*> <*> ec <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  Claim successful
+Creating event network plugged <*> <*>  <*> for instance <*>
+instance <*> <*>  limit not specified defaulting unlimited
+Creating event network plugged <*> <*> 
+instance <*> <*> Stopped Lifecycle Event
+instance <*> Took <*> seconds destroy the instance the hypervisor
+instance <*> <*>  <*> During sync power state the instance has pending task spawning Skip
+instance <*> <*>  Resumed Lifecycle Event
+instance <*> Instance <*> ed successfully
+<*> GET latest meta data reservation HTTP <*> status <*> len <*> time <*>
+instance <*> cb<*> ed Lifecycle Event
+<*> DELETE <*> fad <*> cdb aed <*> servers f<*>  <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*> ed successfully
+instance <*> <*> cpu limit not specified defaulting unlimited
+instance <*> Deleting instance files var lib nova instances <*> del
+<*> GET latest meta data placement <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  Started Lifecycle Event
+instance <*> Took <*> seconds <*>  the instance the hypervisor
+instance <*> ec <*> del complete
+instance <*> Instance destroyed successfully
+instance <*>  Took <*> seconds allocate network for instance
+instance <*> <*>  Instance destroyed successfully
+instance <*> c <*> Started Lifecycle Event
+instance <*> e<*>  Instance destroyed successfully
+instance <*> cb<*>  <*> del complete
+instance <*> <*> Took <*> seconds spawn the instance the hypervisor
+Remov<*>  var lib nova instances base <*>
+instance <*> cb<*>  <*> Took <*> seconds spawn the instance the hypervisor
+<*> DELETE <*> fad <*> cdb aed <*> servers <*> c <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*> Took <*> seconds allocate network for instance
+instance <*> <*>  <*> Terminating instance
+instance <*> <*>  <*> Instance destroyed successfully
+instance <*> <*> cba <*> Took <*> seconds spawn the instance the hypervisor
+<*> <*>  HTTP <*> status <*> len <*> time <*>
+instance <*> Took <*> seconds allocate network for instance
+instance <*> cb<*>  <*> Resumed Lifecycle Event
+<*> GET latest meta data block device mapping root HTTP <*> status <*> len <*> time <*>
+Creating event network plugged <*> f<*> or instance <*>
+instance <*> disk limit not specified defaulting unlimited
+<*>  var lib nova instances base <*>
+instance <*> <*>  del complete
+instance <*> <*> Resumed Lifecycle Event
+instance <*>  <*> Creating image
+<*> GET <*> fad <*> cdb aed <*> servers <*> <*> cba <*> HTTP <*> status <*> len <*> time <*>
+<*> GET <*> fad <*> cdb aed <*> servers <*>  HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> <*>  <*> Stopped Lifecycle Event
+instance <*> <*> Terminating instance
+<*> GET latest meta data security groups HTTP <*> status <*> len <*> time <*>
+Auditing locally available compute resources for node <*> slow <*> cloud <*> utah cloud lab
+instance <*>  disk limit not specified defaulting unlimited
+instance <*> c <*> del complete
+instance <*>  Started Lifecycle Event
+instance <*> fffdd <*> During sync power state the instance has pending task spawning Skip
+instance <*> <*>  During sync power state the instance has pending task spawning Skip
+instance <*> <*> cba <*> Total cpu <*> CPU used <*> CPU
+instance <*> Instance spawned successfully
+<*> GET latest meta data local ipv <*> HTTP <*> status <*> len <*> time <*>
+instance <*> e<*>  Took <*> seconds build instance
+instance <*> adf Took <*> seconds allocate network for instance
+instance <*> edf cfb Total <*>  <*> used <*>
+<*> GET open stack <*> <*>  data json HTTP <*> status <*> len <*> time <*>
+instance <*> cb<*>  <*> Started Lifecycle Event
+<*> GET latest meta data ami launch index HTTP <*> status <*> len <*> time <*>
+Creating event network plugged <*> f<*>  <*> cba <*>
+instance <*> cbf <*> St<*> ed Lifecycle Event
+instance <*>  Took <*> seconds build instance
+<*> GET open stack <*> vendor data json HTTP <*> status <*> len <*> time <*>
+<*> GET <*>  <*> HTTP <*> status <*> len <*> time <*>
+instance <*> fffdd <*> Instance <*> ed successfully
+Creating event network plugged <*> <*>  <*>
+instance <*> Claim successful
+instance <*> <*> Instance destroyed successfully
+instance <*> fffdd <*> St<*> ed Lifecycle Event
+instance <*> eec <*> Instance <*> ed successfully
+instance <*> Total cpu <*> CPU used <*> CPU
+instance <*> Total memory <*> used <*>
+Creating event network plugged <*> b<*> 
+instance <*> c <*> del
+<*> GET open stack <*> <*>  HTTP <*> status <*> len <*> time <*>
+<*> GET <*> servers detail all tenants True changes since <*> HTTP <*> status <*> len <*> time <*>
+instance <*>  <*> del complete
+instance <*> During sync power state the instance has pending task spawning Skip
+instance <*> fffdd <*> Total <*>  <*> used <*>
+instance <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> ec <*> del
+instance <*> cb<*>  <*> del
+instance <*>  Paused Lifecycle Event
+instance <*> <*> Creating image
+<*> GET <*>  HTTP <*> status <*> len <*> time <*>
+instance <*> e<*>  Started Lifecycle Event
+instance <*> cb<*>  <*> Claim successful
+<*> GET <*> servers detail all tenants True changes since <*> host <*> slow <*> cloud <*> utah cloud lab HTTP <*> status <*> len <*> time <*>
+instance <*> c <*> Instance destroyed successfully
+<*> GET <*> fad <*> cdb aed <*> servers <*> <*>  <*> HTTP <*> status <*> len <*> time <*>
+instance f<*>  <*> Paused Lifecycle Event
+instance <*> cb<*>  <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*>  Total cpu <*> CPU used <*> CPU
+Creating event network plugged <*> for instance <*><*> 
+instance <*> <*>  cpu limit not specified defaulting unlimited
+<*> GET latest meta data <*> t HTTP <*> status <*> len <*> time <*>
+instance <*> <*> c <*> Instance destroyed successfully
+instance <*> Took <*> seconds build instance
+instance <*> ec <*> Terminating instance
+instance <*> cpu limit not specified defaulting unlimited
+instance <*> cb<*>  <*> Terminating instance
+Running instance usage audit for host <*> slow <*> cloud <*> utah cloud lab from <*> instances
+instance <*>  <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> <*> c <*> Creating image
+<*> GET latest meta data block device mapping <*>  HTTP <*> status <*> len <*> time <*>
+instance <*>  cpu limit not specified defaulting unlimited
+instance <*> e<*>  Took <*> seconds destroy the instance the hypervisor
+instance <*> <*> During sync power state the instance has pending task spawning Skip
+instance <*> <*>  Creating image
+instance <*>  <*> During sync power state the instance has pending task spawning Skip
+The instance sync for host ' <*> slow <*> cloud <*> utah cloud lab ' did not match created its Instance List
+instance <*> Resumed Lifecycle Event
+instance <*> c <*> memory limit <*> free <*>
+<*> GET open stack <*> user data HTTP <*> status <*> len <*> time <*>
+instance <*> adf <*>  limit not specified defaulting unlimited
+instance <*> e<*>  Stopped Lifecycle Event
+<*> GET open stack <*> meta data json HTTP <*> status <*> len <*> time <*>
+instance <*> <*>  <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> ec <*> cpu limit not specified defaulting unlimited
+instance fec <*> <*> ed Lifecycle Event
+instance <*> <*>  <*> del
+instance <*> fffdd <*> Terminating instance
+instance <*> <*>  Took <*> seconds build instance
+Compute service record updated for <*> slow <*> cloud <*> utah cloud lab <*> slow <*> cloud <*> utah cloud lab
+instance fec <*> Total <*>  <*> used <*>
+Total usable cpus <*> total allocated cpus <*>
+instance <*> <*> cba <*> Paused Lifecycle Event
+instance <*> fffdd <*> Claim successful
+instance <*> <*>  <*> Took <*> seconds destroy the instance the hypervisor
+instance <*>  <*> Claim successful
+<*> GET <*> fad <*> cdb aed <*> servers detail HTTP <*> status <*> len <*> time <*>
+<*> GET latest meta data <*>  HTTP <*> status <*> len <*> time <*>
+<*> GET <*> fad <*> cdb aed <*> servers <*> cb<*>  <*> HTTP <*> status <*> len <*> time <*>
+instance <*> c <*> Paused Lifecycle Event
+instance <*> <*> disk limit not specified defaulting unlimited
+<*> <*>  <*> fad <*> cdb aed <*> servers <*> edf cfb HTTP <*> status <*> len <*> time <*>
+instance <*> Stopped Lifecycle Event
+<*> DELETE <*> fad <*> cdb aed <*> servers <*> <*>  <*> HTTP <*> status <*> len <*> time <*>
+instance <*>  memory limit <*> free <*>
+instance <*> <*>  <*> Took <*> seconds build instance
+<*> GET latest meta data <*> hostname HTTP <*> status <*> len <*> time <*>
+instance <*> <*> c <*> Took <*> seconds destroy the instance the hypervisor
+image <*> fbe <*> var lib nova instances base <*> checking
+Successfully synced instances from host ' <*> slow <*> cloud <*> utah cloud lab '
+instance <*> Total <*>  <*> used <*>
+instance <*> <*>  <*> Total disk <*> used <*>
+instance <*> <*>  Took <*> seconds allocate network for instance
+instance <*> Took <*> seconds spawn the instance the hypervisor
+instance <*> cb<*>  <*> Total cpu <*> CPU used <*> CPU
+instance <*> <*> c <*> Started Lifecycle Event
+Final resource view name <*> slow <*> cloud <*> utah cloud lab ram <*> used ram <*> disk <*> used disk <*> total cpus <*> used cpus <*> pci stats
+instance <*> <*>  <*> Took <*> seconds allocate network for instance
+image <*> fbe <*> var lib nova instances base <*> use this node <*> local <*> other nodes sharing this instance storage
+instance <*> memory limit <*> free <*>
+instance <*>  Total memory <*> used <*>
+instance <*>  Claim successful
+instance <*>  limit not specified defaulting unlimited
+instance <*> <*>  <*> Took <*> seconds spawn the instance the hypervisor
+instance <*> Started Lifecycle Event
+instance <*> <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+<*> GET latest meta data block device mapping ami HTTP <*> status <*> len <*> time <*>
+<*> POST <*> fad <*> cdb aed <*> servers HTTP <*> status <*> len <*> time <*>
+instance <*>  Creating image
+<*> GET latest meta data <*> HTTP <*> status <*> len <*> time <*>
+<*> GET latest meta data ami <*> HTTP <*> status <*> len <*> time <*>
+<*> GET <*> fad <*> cdb aed <*> servers <*> HTTP <*> status <*> len <*> time <*>
+instance <*> c <*> Total memory <*> used <*>
+Base swap file too young remove var lib nova instances base <*>
+instance <*> <*>  <*> del complete
+instance <*> <*> c <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> <*>  <*> Started Lifecycle Event
+<*> DELETE <*> fad <*> cdb aed <*> servers <*> <*> HTTP <*> status <*> len <*> time <*>
+instance <*> <*> Total memory <*> used <*>
+instance <*>  <*> Took <*> seconds spawn the instance the hypervisor
+Creating event network plugged <*> a<*>  <*>
+instance <*> c<*> pu limit not specified defaulting unlimited
+instance <*> <*> Claim successful
+instance f<*>  <*> memory limit <*> free <*>
+<*> GET latest meta data placement HTTP <*> status <*> len <*> time <*>
+instance <*> Paused Lifecycle Event
+instance <*>  <*> Resumed Lifecycle Event
+instance <*> <*>  Total disk <*> used <*>
+<*> GET <*> <*>  <*> HTTP <*> status <*> len <*> time <*>
+instance <*>  <*> Stopped Lifecycle Event
+instance <*> c <*> Total cpu <*> CPU used <*> CPU
+instance <*>  del complete
+instance <*> <*>  del
+instance <*> fffdd <*> Took <*> seconds <*>  the instance the hypervisor
+instance <*> cb<*>  <*> memory limit <*> free <*>
+Creating event network plugged <*> for instance <*>
+instance <*> <*>  Total memory <*> used <*>
+instance <*> <*>  Took <*> seconds destroy the instance the hypervisor
+instance <*> Total disk <*> used <*>
+instance f<*>  <*> Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> bcc <*> <*> ed Lifecycle Event
+instance <*> bcc <*> St<*> ed Lifecycle Event
+instance <*> <*> Total disk <*> used <*>
+Creating event network plugged <*> f<*>  <*>
+instance <*> eec <*> <*> ed Lifecycle Event
+instance <*> e<*>  Took <*> seconds allocate network for instance
+instance <*> bcc <*> <*>  limit not specified defaulting unlimited
+instance <*> adf <*> ed Lifecycle Event
+instance <*>  <*> Paused Lifecycle Event
+instance <*>  <*> Terminating instance
+instance <*> <*> c <*> Claim successful
+instance <*>  <*> Total cpu <*> CPU used <*> CPU
+instance <*> fffdd <*> Deleting instance files var lib nova instances <*> fffdd <*> del
+instance <*> e<*>  Terminating instance
+instance <*> <*>  Total cpu <*> CPU used <*> CPU
+instance <*> c <*> Took <*> seconds build instance
+<*> GET <*> fad <*> cdb aed <*> servers <*> <*> HTTP <*> status <*> len <*> time <*>
+<*> DELETE <*> fad <*> cdb aed <*> servers <*>  HTTP <*> status <*> len <*> time <*>
+<*> <*>  <*> fad <*> cdb aed <*> servers <*> cbf <*> HTTP <*> status <*> len <*> time <*>
+instance <*> cb<*> ed successfully
+instance f<*>  <*> disk limit not specified defaulting unlimited
+instance <*>  <*> del
+instance <*> <*>  the instance the hypervisor
+instance <*>  <*> Total memory <*> used <*>
+instance <*> <*>  <*> Total cpu <*> CPU used <*> CPU
+instance <*> <*> Started Lifecycle Event
+instance <*> ec <*> memory limit <*> free <*>
+instance <*> cb<*>  <*> Took <*> seconds build instance
+instance <*> <*> ed Lifecycle Event
+instance <*> <*>  Paused Lifecycle Event
+instance <*> cba <*> <*> ed Lifecycle Event
+instance <*>  Attempting claim memory <*> disk <*> cpus <*> CPU
+instance <*> cb<*>  <*> used <*>
+instance f<*>  limit not specified defaulting unlimited
+instance <*>  Instance spawned successfully
+instance <*> c<*>  limit not specified defaulting unlimited
+instance <*> fffdd <*> <*> ed Lifecycle Event
+<*> GET latest meta data <*>  hostname HTTP <*> status <*> len <*> time <*>
+instance <*> cbf <*> <*> ed Lifecycle Event
+instance <*> <*>  <*> memory limit <*> free <*>
+instance <*> <*> Total cpu <*> CPU used <*> CPU
+<*> GET <*> fad <*> cdb aed <*> servers <*>  <*> HTTP <*> status <*> len <*> time <*>
+Creating event network plugged <*> <*> c <*>
+instance <*> cba <*> Total <*>  <*> used <*>
+<*> DELETE <*> fad <*> cdb aed <*> servers <*> HTTP <*> status <*> len <*> time <*>
+<*> <*>  <*> fad <*> cdb aed <*> servers <*> fffdd <*> HTTP <*> status <*> len <*> time <*>
+instance <*>  <*> memory limit <*> free <*>
+instance <*> <*> c <*> Terminating instance

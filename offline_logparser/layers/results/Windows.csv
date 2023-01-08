@@ -1,0 +1,70 @@
+template
+Read out cached package applicability for package Microsoft Windows <*>  Package Top Level <*> amd <*> Applicable State <*> Current State <*>
+Cleaning report files older than <*> days
+Session <*> initialized client SPP
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config S<*> 
+Offline image read only
+<*> Initialize dll version <*> called stack <*> fed <*> <*>  <*> feed <*>
+Read out cached package applicability for package Package for <*> amd <*> Applicable State <*> Current State <*>
+Failed create backup log cab RESULT <*> ERROR INVALID FUNCTION
+Loading offline registry hive S<*>  '
+Scavenge Begin CSI Store
+Requesting upload all unsent reports
+<*> CSI per trace
+Loaded Servicing Stack <*> with Core Windows wins amd <*> microsoft windows servicing stack <*> none <*> fed <*> cbs core dll
+Queued <*> file for upload with pattern Windows servicing all flags <*>
+<*> Creating transaction seq <*> object name <*> null
+<*> Initialize dll version <*> called stack <*> fed <*> <*> xff eee <*> feed <*> feed <*>
+Failed internally open package RESULT <*> CBS INVALID PACKAGE
+Read out cached package applicability for package Microsoft Windows Blue Package Top Level <*> amd <*> Applicable State <*> Current State <*>
+Failed get next element RESULT <*> CBS MANIFEST INVALID ITEM
+Reboot mark refs <*>
+<*> Advanced Installer Aware Store Resolve Pending Transactions call <*> flags <*> progress NULL phase <*> Disposition <*>
+Loading offline registry hive schema dat into registry key ' <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows system <*> store Machine schema dat ' from path ' GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows system <*> store Machine schema dat '
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config DEFAULT
+Read out cached package applicability for package Microsoft Hyper Integration Services Package <*> amd <*> Applicable State <*> Current State <*>
+Failed start standard sample upload RESULT <*> FAIL
+<*> Initialize dll version <*> called stack <*> fed <*> <*>  <*>
+Non Start Checking ensure startup processing was not required
+<*> Store coherency cookie matches last scavenge cookie skipping scavenge
+<*> ing Trusted Installer final ation
+<*> Initialize dll version <*> called stack <*> fed <*> xff <*> xff <*><*> 
+startup processing required Trusted Installer service was not set auto start else reboot still pending
+<*> CSI Store <*> initialized
+Read out cached package applicability for package <*>  <*> amd <*> Applicable State <*> Current State <*>
+Warning Unrecognized package Extended attribute
+<*> Performing <*> operations <*> are not lock unlock and follow
+<*> ICS Transaction Commit calling tore Pending Transaction Apply cold patching FALSE apply flags <*>
+Starting Trusted Installer <*> ation
+<*> Initialize dll version <*> called stack <*> fed <*> fee <*> fee <*> <*>  <*> feed <*>
+Non Start Success startup processing not required expected
+Warning Failed upload all unsent reports RESULT <*> FAIL
+Scavenge Starts
+Loading offline registry hive SECURITY into registry key ' <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config SECURITY ' from path ' GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config SECURITY '
+<*> Created transaction seq <*> result <*> handle <*>
+<*> CSI Transaction <*> destroyed
+Loading offline registry hive COMPONENTS into registry key ' <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config COMPONENTS ' from path ' GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config COMPONENTS '
+Read out cached package applicability for package Package for <*> <*> amd <*> Applicable State <*> Current State <*>
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config <*> 
+<*> Populate Component Families Key <*> 
+Read out cached package applicability for package Microsoft <*>  <*> amd <*> Applicable State <*> Current State <*>
+Disabling manifest caching because the image not write able
+Trusted Installer service starts successfully
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Users default user dat
+Ending Trusted Installer <*> ation
+<*>  processing thread terminated normally
+Loading offline registry hive <*>  '
+Session <*> initialized client Windows Update Agent
+Loading offline registry hive user dat into registry key ' <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Users default user dat ' from path ' GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Users default user dat '
+Failed start upload with file pattern Windows servicing std flags <*> RESULT <*> FAIL
+<*> CSI Transaction <*> initialized for deployment engine <*> with flags <*> and client <*>
+Loading offline registry hive S<*> M '
+Reboot mark refs incremented <*>
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config S<*> M
+Read out cached package applicability for package Microsoft Windows <*> n Package Top Level <*> amd <*> Applicable State <*> Current State <*>
+Expecting attribute name RESULT <*> CBS MANIFEST INVALID ITEM
+Scavenge Completed disposition <*>
+<*> ing the Trusted Installer main loop
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows <*> 
+Initializing online with Windows opt False
+Unloading offline registry hive <*> GLOBAL ROOT Device Hard disk Volume Shadow Copy <*> Windows System <*> config SOFTWARE

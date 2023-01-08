@@ -1,0 +1,7 @@
+template
+<*> Found child <*> scoreboard slot <*>
+mod child worker error state <*>
+client <*> Directory index forbidden rule var www html
+worker etc httpd conf workers <*> properties
+<*> Can' find child <*> scoreboard
+mod child <*>

@@ -1,0 +1,177 @@
+template
+Failed password for <*>  from <*> port <*> ssh <*>
+Failed password for invalid user from <*> port <*> ssh <*>
+input use rau request invalid user <*> p pre
+pam unix ssh authentication failure log name <*> tty ssh user host <*><*> 
+input use rau request invalid user c<*>  pre
+Invalid user s<*>  from <*>
+Failed password for invalid user <*>  <*> from <*> port <*> ssh <*>
+Connection closed <*> pre
+input use rau request invalid user ora<*>  pre
+Failed password for invalid user support from <*> port <*> ssh <*>
+input use rau request invalid user <*> pre
+input use rau request invalid user <*> r pre
+input use rau request invalid user <*> n pre
+Invalid user chen<*>  from <*>
+Failed password for invalid user ma<*>  from <*> port <*> ssh <*>
+PAM service ssh ignoring max retries <*>
+Failed password for invalid user chen<*>  from <*> port <*> ssh <*>
+Failed password for invalid user post gres <*> from <*> port <*> ssh <*>
+Failed password for invalid user Management from <*> port <*> ssh <*>
+Failed password for root from <*> port <*> ssh <*>
+Failed password for invalid user FILTER from <*> port <*> ssh <*>
+input use rau request invalid user <*> s pre
+input use rau request invalid user FILTER pre
+Failed password for <*> from <*> port <*> ssh <*>
+input use rau request invalid user pre
+Failed password for invalid user <*> s from <*> port <*> ssh <*>
+Failed password for invalid user <*> n from <*> port <*> ssh <*>
+Invalid user support from <*>
+Invalid user b<*>  from <*>
+Failed password for invalid user mat lab from <*> port <*> ssh <*>
+error Received disconnect from <*> more user authentication methods available pre
+message repeated <*> times Failed password for root from <*> port <*> ssh <*>
+input use rau request invalid user <*> y pre
+input use rau request invalid user ma<*>  pre
+Invalid user g<*> st from <*>
+input use rau request invalid user te<*>  pre
+input use rau request invalid user <*> ter pre
+pam unix ssh authentication failure log name <*> tty ssh user host <*> north <*> compute amazon com
+Invalid user ubuntu from <*>
+pam unix ssh authentication failure log name <*> tty ssh user host <*> user
+Failed password for f<*> rom <*> port <*> ssh <*>
+Invalid user <*>  from <*>
+input use rau request invalid user ssh pre
+pam unix ssh authentication failure log name <*> tty ssh user host <*> <*> user root
+input use rau request invalid user <*> <*> pre
+Invalid user <*> n from <*>
+Failed password for invalid user b<*>  from <*> port <*> ssh <*>
+input use rau request invalid user chen<*>  pre
+Failed password for from <*> port <*> ssh <*>
+Invalid user de<*>  from <*>
+Failed password for invalid user <*> <*> from <*> port <*> ssh <*>
+Received disconnect from <*> Bye pre
+Failed password for invalid user <*> from <*> port <*> ssh <*>
+Failed <*>  <*> from <*> port <*> ssh <*>
+Failed password for invalid user <*> us from <*> port <*> ssh <*>
+Failed password for mysql from <*> port <*> ssh <*>
+PAM <*> more authentication failures log name <*> tty ssh user host <*><*> 
+Received disconnect from <*> Closed due user request pre
+Failed password for invalid user o<*>  from <*> port <*> ssh <*>
+pam unix ssh authentication failure log name <*> tty ssh user host <*> user ftp
+Invalid user ora<*>  from <*>
+pam unix ssh authentication failure log name <*> tty ssh user host <*> user <*> 
+Failed password for invalid user <*>  from <*> port <*> ssh <*>
+Failed password for invalid user test <*> from <*> port <*> ssh <*>
+Invalid user a<*>  from <*>
+Failed <*>  from <*> port <*> ssh <*>
+Did not receive identification string from <*>
+<*>  authentication failure log name <*> tty ssh user host <*>
+Failed password for invalid user guest from <*> port <*> ssh <*>
+pam unix ssh authentication failure log name <*> tty ssh user host <*>
+input use rau request invalid user m<*>  pre
+Failed password for invalid user test from <*> port <*> ssh <*>
+<*>  log name <*> tty ssh user host <*> user root
+input use rau request invalid user <*> s <*> pre
+Invalid user o<*>  from <*>
+Failed password for invalid user <*> d from <*> port <*> ssh <*>
+Failed none for invalid user <*>  from <*> port <*> ssh <*>
+Invalid user test from <*>
+input use rau request invalid user <*> er pre
+Invalid user <*> d from <*>
+Failed <*>  for invalid user admin from <*> port <*> ssh <*>
+Invalid user san deep from <*>
+input use rau request invalid user s<*>  pre
+Failed password for invalid user <*> p from <*> port <*> ssh <*>
+Failed password for <*> oot from <*> port <*> ssh <*>
+Failed password for invalid user <*> st from <*> port <*> ssh <*>
+input use rau request invalid user <*> d pre
+Invalid user <*> y from <*>
+reverse mapping checking get ddr info for <*> <*> com <*> failed POSSIBLE BREAK ATTEMPT
+Invalid user m<*>  from <*>
+Invalid user <*> st from <*>
+Failed password for ftp from <*> port <*> ssh <*>
+reverse mapping checking get ddr info for <*>  com <*> failed POSSIBLE BREAK ATTEMPT
+Invalid user <*> from <*>
+input use rau request invalid user <*> us pre
+Failed password for invalid user a<*>  from <*> port <*> ssh <*>
+Failed password for invalid user ora<*>  from <*> port <*> ssh <*>
+Failed password for invalid user f<*> rom <*> port <*> ssh <*>
+Failed password for invalid user admin from <*> port <*> ssh <*>
+Invalid user ma<*>  from <*>
+Invalid user c<*>  from <*>
+input use rau request invalid user g<*> st pre
+input use rau request invalid user test <*> pre
+error Received disconnect from <*> com craft sch Sch Exception fail pre
+Invalid user from <*>
+Failed password for invalid user c<*>  from <*> port <*> ssh <*>
+input use rau request invalid user red hat pre
+fatal Write failed Connection reset peer pre
+Received disconnect from <*> disconnected user
+Invalid user <*> ter from <*>
+Failed password for invalid user w<*>  from <*> port <*> ssh <*>
+Failed password for invalid user <*> est from <*> port <*> ssh <*>
+Failed password for invalid user <*> er from <*> port <*> ssh <*>
+Disconnecting Too many authentication failures for <*>  pre
+input use rau request invalid user <*> st pre
+Invalid user FILTER from <*>
+Invalid user <*> t from <*>
+Failed password for invalid user spur from <*> port <*> ssh <*>
+Invalid user <*> r from <*>
+Failed password for invalid user m<*>  from <*> port <*> ssh <*>
+Invalid user te<*>  from <*>
+input use rau request invalid user <*>  pre
+PAM <*> more authentication failure<*>  log name <*> tty ssh user host <*>
+<*> ed password for from <*> port <*> ssh <*>
+Invalid user www from <*>
+Failed password for invalid user te<*>  from <*> port <*> ssh <*>
+input use rau request invalid user ubuntu pre
+reverse mapping checking get ddr info for <*> com <*> failed POSSIBLE BREAK ATTEMPT
+Failed password for invalid user g<*> st from <*> port <*> ssh <*>
+Invalid user admin from <*>
+Failed password for invalid user red hat from <*> port <*> ssh <*>
+pam unix ssh check pass user unknown
+Invalid user <*> us from <*>
+Failed password for invalid user de<*>  from <*> port <*> ssh <*>
+pam unix ssh authentication failure log name <*> tty ssh user host <*> user<*> 
+Invalid user <*>  <*> from <*>
+input use rau request invalid user b<*>  pre
+Failed password for ssh from <*> port <*> ssh <*>
+Failed password for invalid user <*> r from <*> port <*> ssh <*>
+Invalid user Plc mSp from <*>
+Failed password for invalid user <*> t from <*> port <*> ssh <*>
+Failed password for invalid user <*> s <*> from <*> port <*> ssh <*>
+Invalid user <*> est from <*>
+Failed password for <*> ssh from <*> port <*> ssh <*>
+Invalid user <*> s from <*>
+Failed <*>  for invalid user <*> from <*> port <*> ssh <*>
+Failed password for invalid user <*> tor from <*> port <*> ssh <*>
+Invalid user <*> <*> from <*>
+Failed password for invalid user <*> y from <*> port <*> ssh <*>
+PAM <*> more authentication failure<*> 
+Invalid user test <*> from <*>
+input use rau request invalid user <*>  <*> pre
+input use rau request invalid user <*> t pre
+Failed password for invalid user s<*>  from <*> port <*> ssh <*>
+Failed password for invalid user anonymous from <*> port <*> ssh <*>
+input use rau request invalid user p<*> re
+Failed password for invalid user <*> o from <*> port <*> ssh <*>
+pam unix ssh authentication failure log name <*> tty ssh user host <*> user root
+pam unix ssh authentication failure log name <*> tty ssh user host <*> user ssh
+input use rau request invalid user a<*>  pre
+Failed password for invalid user oracle from <*> port <*> ssh <*>
+PAM <*> more authentication failures log name <*> tty ssh user host <*>
+Invalid user Management from <*>
+Failed password for <*> t from <*> port <*> ssh <*>
+Invalid user <*> tor from <*>
+input use rau request invalid user sims pre
+Invalid user red hat from <*>
+input use rau request invalid user admin pre
+Invalid user <*> er from <*>
+input use rau request invalid user w<*>  pre
+input use rau request invalid user o<*>  pre
+Invalid user zhang yan from <*>
+input use rau request invalid user zhang yan pre
+pam unix ssh session <*> 
+Failed password for invalid user ubuntu from <*> port <*> ssh <*>
+<*>  log name <*> tty ssh user host <*> dynamic dsl mantel net user root

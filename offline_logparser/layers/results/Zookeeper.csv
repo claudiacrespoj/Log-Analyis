@@ -1,0 +1,79 @@
+template
+Accepted socket connection from
+Established session <*> ed<*>  <*> with negotiated time out <*> for client
+Expiring session <*> ed<*>  <*> time out <*> exceeded
+Unexpected exception causing shutdown while sock still open
+validating client <*>
+Server environment java class path etc zookeeper conf share java line jar share java log <*> jar share java rce sIm jar share java xml Parser APIs jar share java net jar share java <*> api jar share java <*> log <*> jar share java zookeeper jar
+Notification <*> leader <*> round L<*> ING state
+Expiring session <*> edf <*> time out <*> exceeded
+Notification time out <*>
+Server environment user name zookeeper
+Exception causing close session <*> due java Exception ZooKeeper Server not running
+Have smaller server identifier dropping the connection <*>
+Cannot open channel <*> election address
+First <*>
+Server environment name Linux
+Expiring session <*> ede <*> time out <*> exceeded
+Notification <*> leader <*> round <*> ING state
+Established session <*> <*> with negotiated time out <*> for client
+Client attempting renew session <*>
+Processed session termination for session <*> ede <*>
+caught end stream exception
+Expiring session <*> <*> time out <*> exceeded
+Notification <*> leader <*> round <*> ING state <*> sid <*> peer EPoch FOLLOWING state
+Notification <*> leader <*> round LOOKING state <*> sid <*> peer EPoch L<*> ING state
+Received connection request
+election bind port <*>
+Sending DIFF
+GOODBYE
+Processed session termination for session <*><*> 
+Send worker leaving thread
+Starting quorum peer
+Got user level Keeper Exception when processing session <*> type create <*> type <*> path Error Path home uri zookeeper Error Keeper Error Code Node Exists for home uri zookeeper
+Server environment java vendor Oracle Corporation
+Notification <*> leader <*> round LOOKING state <*> sid <*> peer EPoch LOOKING state
+Expiring session <*> time out <*> exceeded
+FOLLOWING
+Expiring session <*> fda <*> time out <*> exceeded
+auto purge Interval set <*>
+Closed socket connection for client which had session <*> ed<*>  <*>
+Follower sid <*> info org apache zookeeper server quorum Quorum Peer Quorum Server <*>
+Notification <*> leader <*> round L<*> ING state <*> sid <*> peer EPoch LOOKING state
+Closed socket connection for client which had session <*>
+Closed socket connection for client which had session <*> ede <*>
+Interrupted while waiting for message queue
+Have quorum supporters starting and setting last processed <*>
+FOLLOWING LEADER ELECTION TOOK <*>
+Notification <*> leader <*> round <*> ING state <*> sid <*> peer EPoch LEADING state
+Reading snapshot var lib zookeeper version <*> snapshot <*>
+Snapshot ting <*> <*> 
+New election <*> proposed <*>
+LOOKING
+Processed session termination for session <*> <*>  <*>
+Expiring session <*> <*>  <*> time out <*> exceeded
+Notification <*> leader <*> round LOOKING state <*> sid <*> peer EPoch <*> ING state
+Closed socket connection for client which had session <*> edf <*>
+Closed socket connection for client which had session <*><*> 
+Server environment host name meso master <*>
+Established session <*> ede <*> with negotiated time out <*> for client
+Server environment java home lib jvm java <*> open amd <*>
+Processed session termination for session <*> edf <*>
+Processed session termination for session <*>
+Client attempting establish new session
+Closed socket connection for client session established for client
+Established session <*> with negotiated time out <*> for client
+Processed session termination for session <*> ed<*>  <*>
+Established session <*> edf <*> with negotiated time out <*> for client
+auto purge snap Retain Count set <*>
+shutdown request processor complete
+Server environment zookeeper version <*> built <*> GMT
+Unexpected Exception
+Interrupting Send Worker
+Connection request from old client will dropped server mode
+Connection broken for <*> error
+tick Time set <*>
+m<*>  Session Time out set <*>
+Server environment user dir
+Notification <*> leader <*> round FOLLOWING state <*> sid <*> peer EPoch <*> ING state
+Getting snapshot from leader

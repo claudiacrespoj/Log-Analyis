@@ -1,0 +1,73 @@
+template
+screen status unknown think screen
+Can Sync not cloud version
+rou ment
+Extend <*>
+get Today Basic Standard Steps <*>
+check CurrentDay new day comes reset basic Sync Condition currentDay <*> old Day <*>
+flush <*> result success
+get Today Total Detail Steps <*>
+Screen true
+new date <*> type <*> old <*>
+bulk Save Detail Health Data size <*> total Time <*>
+get App Context App Valid health wear package Name com hua wei health
+close Notification
+get Step Counter Status<*> 
+set Basic Standard Steps basic Standard Step <*> restart Steps <*>
+reStart Step Counter
+upload Statics failed message true
+the Day Changed <*>
+clear
+write Data size <*>
+set Goal Not Shown Record <*> false
+process Handle Broadcast Action action android intent action <*> 
+start Listener Change subscribe List <*>
+calculate Altitude With Cache total Altitude <*>
+step Sync Not app Syn Times <*> stat sync Times <*>
+flush Temp Cache stand
+insert Health Data size <*> app <*> One Data Type <*> package Name com hua wei health write Stat Type <*>
+start Insert Sport Sync start auto sync app <*>
+register sensor success true
+Receive action android intent action SCREEN<*> 
+start Insert Sport Sync first <*> steps sync all sync
+save Health Detail Data save One Detail Data fail Health Data <*> type <*>
+User Privacy the user Privacy switch open start push user data
+next day steps <*> Last Report <*>
+Alarm upload Statics total Steps <*> Calories <*> Floor <*> Distance <*>
+step Sync Not app Syn Times <*>
+REPORT <*>
+insert Health Data bulk Save Detail Health Data fail error Code <*> error Message ERR DATA INSERT
+upLoad One Minute Data Engine time <*>
+Insert Event success begin <*> end <*>
+try Record Basic Step Data Write true
+<*> et Diff Total Steps <*>
+start Timer start auto Sync
+timeStamp back extend Report TimeStamp <*>
+upload Statics Result type <*> obj true
+save RealTime Health Data Stat size <*> total Time <*>
+delete Health Notification
+start Sync Option Sync Option sync Action <*> sync Method <*> sync Scope <*> sync Data Type <*> sync Model <*> push Action <*> app <*> who <*>
+User Privacy the user Privacy true
+insert Health Data end total Time <*>
+flush sensor data
+<*> et Today Total Detail Steps <*>
+set Write BLast Data Minute success
+calculate Calories With Cache total Calories <*>
+set Write BLast Data Minute <*>
+get Today Sport Data Steps Record Manager com hua wei health <*>
+save Health Detail Data device <*> client <*>
+check Insert Status step<*>  enough
+check First Sync Type such data type <*> device Code <*>
+set Today Total Detail Steps <*>
+reload <*> star <*>
+Stand Step Changed <*>
+Data Privacy the data Privacy switch open start push health data
+get Binder Package Name package Name com hua wei health
+Insert CallBack Success type <*> data true
+try Reload Today Basic Steps <*>
+save Stat Data type <*> time <*> stat Client <*> who <*>
+send Sync Failed Broadcast
+insert Health Data check App Type <*> app <*>
+need Auto Sync auto Sync Switch open
+get Diff Total Steps <*>
+Data Privacy the data Privacy true
