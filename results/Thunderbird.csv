@@ -1,179 +1,177 @@
 template
-Reading included configuration file etc net <*> time udp line <*>
-Reading included configuration file etc net charge <*>  line <*>
-driver <*> MAX DEVS <*> DISKS <*>
-<*> W<*>  <*> admin <*> relay <*> local host
-<*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat Deferred Connection refused <*>
-data thread got not answer from any nder bird <*> data source
-Registering secondary module capability
-PCI Root Bridge PCI <*>
-colour VGA <*>
-Warning failed resolve trusted host name admin <*> admin <*>
-PCI Interrupt Routing Table PCI <*>
-pic <*> version <*> address <*> xfe <*> GSI <*>
-floppy controllers found
-PIC <*> pic <*> enabled
-Reading included configuration file etc net <*> p line <*>
-bus <*> bus irq <*> global irq <*> <*> l
-Initializing
-synchronized <*> <*> stratum <*>
-Starting permissive mode
-Intel Xeon CPU <*> GHz stepping <*>
-removing <*> time
-initializing net link socket disabled
-removing sync
-removing printer
-connection lost ' Connection closed '
-Warning failed resolve data source name <*>
-PCI Interrupt Link IRQ <*>
-Probing PCI hardware bus <*>
-CentOS <*> Kernel Module GPG key
-Physical Processor <*>
-Model <*> SCSI Rev <*>
-session opened for user root <*>
-sweep <*> topology change
-Version <*> Starting
-Mega RAID Model <*> RAID <*> Rev <*>
-registered new driver <*> 
-removing charge
-Subsystem revision <*>
-PCI interrupt <*> GSI <*> level low IRQ <*>
-asking for cache data failed
-Reading included configuration file etc net ftp file etc net ftp line <*>
-port map startup succeeded
-Reading included configuration file etc net time <*>  line <*>
-kernel time sync <*> abled <*>
-<*> from root size <*> class <*> nrc pts <*> msg <*> admin <*> relay <*> local host
-Reading included configuration file etc net <*>  udp line <*>
-Reading included configuration file etc net <*> time line <*>
-Processor CPU <*> supports <*>
-removing ftp
-Trace cache <*> ops <*> cache <*>
-Disabled runtime
-<*>  <*> DELL <*>
-Reading included configuration file etc net login file etc net login line <*>
-Server listening port <*>
-<*> DELL <*>
-Starting fix succeeded
-Hash tables configured established <*> bind <*>
-assuming drive cache write through
-Reading included configuration file etc net daytime <*>  line <*>
-DHCP DISCOVER from <*> via eth <*>
-DHCP <*> <*> via eth <*>
-<*> Release Date E<*> T <*>
-<*> XVI <*> from root size <*> class <*> nrc pts <*> msg <*> XVI <*> admin <*> relay <*> local host
-<*> Exp
-<*> Net filter core team
-Warning failed resolve data source name admin <*> admin <*> admin <*>
-Using for IRQ routing
-User <*> coming from <*> authenticated
-Cannot open file dev log surfer for writing such file directory
-root run parts etc hourly
-update var lib ganglia rds <*>  illegal attempt update using time <*> when last update time <*> minimum one second step
-Mounted root ext <*> filesystem
-Using IOA PIC for interrupt routing
-eth <*> watchdog NIC Link <*> Mbps Full Duplex
-initialized
-removing login
-Reading included configuration file etc net <*> telnet file etc net <*> telnet line <*>
-<*> USB HID core driver
-PCI Hot Plug PCI Core version <*>
-<*>  startup succeeded
-supports <*>
-Reading included configuration file etc net c<*>  line <*>
-Compressed image found block <*>
-succeeded
-Transparent bridge <*>
-auto run DONE
-removing telnet
-root LABEL <*> lustre <*> per admin console tty <*> console tty <*> fast boot BOOT IMAGE <*> vml <*> lustre <*> per
-time reset <*>
-removing echo
-root projects bird temps get temps
-<*> <*>  <*> admin <*> relay <*> local host
-IRQ <*> used override
-synchronized <*> stratum <*>
-probe ves afb <*> failed with error <*>
-routing cache hash table <*> buckets <*> bytes
-Logic Mega RAID driver
-not detected
-net Version <*> started with lib wrap load avg options compiled
-sda <*> sda <*> sda <*> sda <*>
-Using configuration type <*>
-<*> <*> DELL <*>
-PCI Interrupt Routing Table PCI <*> PALO<*> 
-<*> cache <*>
-Registered protocol family <*>
-auto run
-<*> mouse device common for all mice
-Reading included configuration file etc net t<*>  line <*>
 removing shell
-Device dev sda Temperature changed <*> Celsius <*> Celsius since last report
-eth <*> probe Intel PRO <*> Network Connection
-Received SNMP packet from <*>
-<*> ioc <*> initial <*>
-registered new driver usb<*> 
-Reading included configuration file etc net s<*>  line <*>
-<*> <*>  <*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat Deferred Connection refused <*>
-Using software bounce buffering for SWI OTL
-<*> egistering net filter hooks
-removing talk
-Using CONFIG <*>
-slog startup succeeded
-<*>
-Mounting other filesystems failed
-version <*> bios version <*>
-scanning scsi channel <*> for non raid devices
-Processor SCSI revision <*>
-Now running <*> ' privileges
-Unknown <*> arg ffff <*> dev sda
-P<*>  <*> DELL <*>
-PCI Interrupt Link IRQ <*> disabled
-allocating divert for eth <*>
-scanning scsi channel <*> virtual for logical drives
-DHCP REQUEST for <*> from <*> via eth <*>
-Creating Top spin dev entries
-Detected <*> MHz processor
-<*> <*> port <*> irq <*>
-sweep <*> configuration change required
-update var lib ganglia rds Nodes <*> kts out illegal attempt update using time <*> when last update time <*> minimum one second step
-Started working <*> available service
-passed
-START ftp pid <*> from <*>
-Wait for ready failed before probe
-PIC NMI <*> high edge lint <*>
-DHCP REQUEST for <*> from <*> via eth <*> unknown lease <*>
-Reading included configuration file etc net echo <*>  line <*>
-IOA PIC <*> address <*> xfe <*> gsi base <*>
-error Bind port <*> failed Address already use
-Local PIC address <*> fee <*>
-Disk quotas quo <*>
-registered new driver <*> b
-probe new device <*> bus <*> slot <*> fun <*>
-rpc stat startup succeeded
-Auto detecting RAID arrays
-sweep <*> NEW SWEEP
-Reading included configuration file etc net <*>  line <*>
-session closed for user root
-Mounting NFS filesystems succeeded
-<*> <*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat Deferred Connection refused <*>
-PCI Interrupt Routing Table PCI <*><*> 
-slog version <*> starting
-<*> W<*>  <*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat Deferred Connection refused <*>
-Local disconnected Connection closed
-unqualified host name admin <*> unknown sleeping for retry
-Power Button
-Installing public key data
-Interpreter enabled
-mounted filesystem with ordered data mode
-unable qualify own domain name admin <*> using short name
-DHCP DISCOVER from <*> via eth <*> network net free leases
-Direct Access SCSI revision <*>
-Assuming <*> MHz system bus speed for PIO modes override with ide bus
-not allocating divert for non ethernet device<*> 
-Using PET based timekeeping
-<*> AD <*> DELL <*>
-Using <*> MHz PET timer
-PET <*> xff ffffff base <*> fed <*>
-Changing permissions special file dev log surfer
+ioa pic <*> address <*> xfe <*> gsi base <*>
+<*> w<*>  <*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat deferred connection refused <*>
+time reset <*>
+registering net filter hooks
+synchronized <*> <*> stratum <*>
+disk quotas quo <*>
+removing echo
 connection from <*>
+sweep <*> topology change
+bus <*> bus irq <*> global irq <*> <*> l
+passed
+version <*> bios version <*>
+assuming <*> mhz system bus speed for pio modes override with ide bus
+removing printer
+warning failed resolve data source name <*>
+intel xeon cpu <*> ghz stepping <*>
+reading included configuration file etc net s<*>  line <*>
+changing permissions special file dev log surfer
+root projects bird temps get temps
+warning failed resolve data source name admin <*> admin <*> admin <*>
+error bind port <*> failed address already use
+probing pci hardware bus <*>
+mounted root ext <*> filesystem
+pci interrupt routing table pci <*> palo<*> 
+rpc stat startup succeeded
+reading included configuration file etc net <*>  line <*>
+pci interrupt routing table pci <*>
+creating top spin dev entries
+synchronized <*> stratum <*>
+centos <*> kernel module gpg key
+pci interrupt <*> gsi <*> level low irq <*>
+pic <*> version <*> address <*> xfe <*> gsi <*>
+reading included configuration file etc net echo <*>  line <*>
+session opened for user root <*>
+registered protocol family <*>
+registered new driver hid dev
+<*> cache <*>
+removing charge
+sweep <*> new sweep
+probe ves afb <*> failed with error <*>
+removing talk
+removing telnet
+<*>  startup succeeded
+driver <*> max devs <*> disks <*>
+reading included configuration file etc net charge <*>  line <*>
+reading included configuration file etc net <*> time line <*>
+warning failed resolve trusted host name admin <*> admin <*>
+processor cpu <*> supports <*>
+processor scsi revision <*>
+using pet based timekeeping
+root run parts etc hourly
+using configuration type <*>
+power button
+dhcp request for <*> from <*> via eth <*> unknown lease <*>
+colour vga <*>
+root label <*> lustre <*> per admin console tty <*> console tty <*> fast boot image <*> vml <*> lustre <*> per
+using <*> mhz pet timer
+registering secondary module capability
+reading included configuration file etc net <*> p line <*>
+asking for cache data failed
+reading included configuration file etc net <*> telnet file etc net <*> telnet line <*>
+start ftp pid <*> from <*>
+unqualified host name admin <*> unknown sleeping for retry
+<*>
+auto run done
+session closed for user root
+scanning scsi channel <*> for non raid devices
+connection lost ' connection closed '
+<*> release date e<*> t <*>
+routing cache hash table <*> buckets <*> bytes
+unknown <*> arg ffff <*> dev sda
+removing ftp
+compressed image found block <*>
+<*> usb hid core driver
+received snmp packet from <*>
+net version <*> started with lib wrap load avg options compiled
+initializing
+model <*> scsi rev <*>
+reading included configuration file etc net t<*>  line <*>
+slog startup succeeded
+<*> ioc <*> initial <*>
+irq <*> used override
+mounting other filesystems failed
+mounting nfs filesystems succeeded
+wait for ready failed before probe
+kernel time sync <*> abled <*>
+initializing net link socket disabled
+sda <*> sda <*> sda <*> sda <*>
+reading included configuration file etc net c<*>  line <*>
+initialized
+reading included configuration file etc net daytime <*>  line <*>
+<*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat deferred connection refused <*>
+device dev sda temperature changed <*> celsius <*> celsius since last report
+pci interrupt routing table pci <*><*> 
+data thread got not answer from any nder bird <*> data source
+<*> <*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat deferred connection refused <*>
+local disconnected connection closed
+using for irq routing
+reading included configuration file etc net login file etc net login line <*>
+<*> ad <*> dell <*>
+probe new device <*> bus <*> slot <*> fun <*>
+<*> dell <*>
+pci hot plug pci core version <*>
+using config <*>
+sweep <*> configuration change required
+<*> <*> dell <*>
+cannot open file dev log surfer for writing such file directory
+started working <*> available service
+eth <*> probe intel pro <*> network connection
+starting fix succeeded
+server listening port <*>
+reading included configuration file etc net <*> e udp line <*>
+hash tables configured established <*> bind <*>
+pci root bridge pci <*>
+<*> from root size <*> class <*> nrc pts <*> msg <*> admin <*> relay <*> local host
+update var lib ganglia rds nodes <*> kts out illegal attempt update using time <*> when last update time <*> minimum one second step
+interpreter enabled
+using ioa pic for interrupt routing
+disabled runtime
+trace cache <*> ops <*> cache <*>
+direct access scsi revision <*>
+not allocating divert for non ethernet device<*> 
+local pic address <*> fee <*>
+<*> version <*> starting
+<*> mouse device common for all mice
+p<*>  <*> dell <*>
+scanning scsi channel <*> virtual for logical drives
+removing sync
+<*> exp
+succeeded
+pic <*> pic <*> enabled
+eth <*> watchdog nic link <*> mbps full duplex
+pci interrupt routing table pci <*> palo
+unable qualify own domain name admin <*> using short name
+dhcp request for <*> from <*> via eth <*>
+transparent bridge <*>
+now running <*> ' privileges
+dhcp discover from <*> via eth <*> network net free leases
+installing public key data
+mega raid model <*> raid <*> rev <*>
+logic mega raid driver
+assuming drive cache write through
+supports <*>
+port map startup succeeded
+using software bounce buffering for swi otl
+reading included configuration file etc net <*> time udp line <*>
+<*>  <*> dell <*>
+removing login
+starting permissive mode
+removing <*> time
+<*> <*>  <*> admin <*> relay <*> local host
+pet <*> xff ffffff base <*> fed <*>
+user <*> coming from <*> authenticated
+registered new driver <*> b
+allocating divert for eth <*>
+subsystem revision <*>
+<*> <*> port <*> irq <*>
+physical processor <*>
+dhcp <*> <*> via eth <*>
+<*> net filter core team
+registered new driver <*> 
+<*> <*>  <*> root ddr root <*> delay <*> delay <*> mailer relay pri <*> relay <*> stat deferred connection refused <*>
+floppy controllers found
+auto detecting raid arrays
+pci interrupt link irq <*>
+mounted filesystem with ordered data mode
+update var lib ganglia rds <*>  illegal attempt update using time <*> when last update time <*> minimum one second step
+reading included configuration file etc net <*>  udp line <*>
+<*> w<*>  <*> admin <*> relay <*> local host
+auto run
+dhcp discover from <*> via eth <*>
+not detected
+pci interrupt link irq <*> disabled
+detected <*> mhz processor
+pic nmi <*> high edge lint <*>

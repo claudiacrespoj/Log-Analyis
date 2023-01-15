@@ -1,30 +1,17 @@
 template
-Receiving block <*>
-Starting thread transfer block <*>
-BLOCK Name System add Stored Block block Map updated added <*> size <*>
-BLOCK Name System allocate Block user root rand txt <*> temporary task <*> part <*>
-BLOCK Name System allocate Block user root rand t<*> emporary task <*> part <*>
-BLOCK Name System allocate Block user root sort rand <*> temporary task <*> part <*>
-Got exception while serving <*>
-BLOCK Name System allocate Block user root <*> rand <*> temporary task <*> part <*>
-Verification succeeded for <*>
-BLOCK Name System allocate Block user root <*> rand temporary task <*> part <*>
-BLOCK Name System allocate Block user root rand <*>  temporary task <*> part <*>
-BLOCK Name System allocate Block user root <*>  temporary task <*> part <*>
-BLOCK Name System allocate Block user root sort rand temporary task <*> part <*>
-Served block <*>
-BLOCK Name System allocate Block user root rand txt temporary task <*> part <*>
-Deleting block <*> file had oop data current sub dir <*>
-Received block <*> size <*>
-Received block <*> size <*><*> 
-Deleting block <*> file had oop data current <*>
-BLOCK ask delete <*>
-BLOCK Name System allocate Block user root rand temporary task <*> part <*>
-BLOCK ask replicate <*> data node
-Packet Responder <*> for block <*> terminating
-Received block <*> size <*> from <*>
 BLOCK Name System allocate Block user root rand <*> temporary task <*> part <*>
-BLOCK Name System allocate Block user root <*>  <*> temporary task <*> part <*>
-Deleting block <*> file had oop data current <*> <*>
-BLOCK Name System allocate Block user root rand <*> <*> temporary task <*> part <*>
+BLOCK Name System allocate Block user root <*> temporary task <*> part <*>
+Starting thread transfer block <*>
 BLOCK Name System delete <*> added invalid Set
+BLOCK Name System add Stored Block block Map updated added <*> size <*>
+Deleting block <*> file had oop data current <*>
+BLOCK Name System allocate Block user root <*> rand temporary task <*> part <*>
+Received block <*> size <*><*>
+BLOCK ask delete <*>
+Served block <*>
+Verification succeeded for <*>
+Receiving block <*>
+BLOCK ask replicate <*> data node
+Got exception while serving <*>
+BLOCK Name System allocate Block user root rand t<*> emporary task <*> part <*>
+Packet Responder <*> for block <*> terminating
