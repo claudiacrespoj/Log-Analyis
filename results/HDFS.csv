@@ -1,17 +1,30 @@
 template
-BLOCK Name System allocate Block user root rand <*> temporary task <*> part <*>
-BLOCK Name System allocate Block user root <*> temporary task <*> part <*>
-Starting thread transfer block <*>
-BLOCK Name System delete <*> added invalid Set
-BLOCK Name System add Stored Block block Map updated added <*> size <*>
-Deleting block <*> file had oop data current <*>
-BLOCK Name System allocate Block user root <*> rand temporary task <*> part <*>
-Received block <*> size <*><*>
-BLOCK ask delete <*>
-Served block <*>
-Verification succeeded for <*>
-Receiving block <*>
-BLOCK ask replicate <*> data node
-Got exception while serving <*>
-BLOCK Name System allocate Block user root rand t<*> emporary task <*> part <*>
-Packet Responder <*> for block <*> terminating
+block name system allocate block user root rand txt temporary task <*> part <*>
+block name system allocate block user root sort rand temporary task <*> part <*>
+deleting block <*> file had oop data current <*>
+received block <*> size <*><*> 
+verification succeeded for <*>
+starting thread transfer block <*>
+block name system allocate block user root sort rand <*> temporary task <*> part <*>
+block name system delete <*> added invalid set
+block name system allocate block user root rand temporary task <*> part <*>
+got exception while serving <*>
+block name system allocate block user root <*> rand temporary task <*> part <*>
+block name system allocate block user root rand txt <*> temporary task <*> part <*>
+block name system allocate block user root rand <*>  temporary task <*> part <*>
+deleting block <*> file had oop data current <*> <*>
+served block <*>
+block name system allocate block user root <*>  temporary task <*> part <*>
+block name system allocate block user root rand t<*> emporary task <*> part <*>
+block ask delete <*>
+receiving block <*>
+packet responder <*> for block <*> terminating
+block name system add stored block map updated added <*> size <*>
+received block <*> size <*> from <*>
+deleting block <*> file had oop data current sub dir <*>
+block name system allocate block user root <*> rand <*> temporary task <*> part <*>
+received block <*> size <*>
+block name system allocate block user root rand <*> <*> temporary task <*> part <*>
+block ask replicate <*> data node
+block name system allocate block user root rand <*> temporary task <*> part <*>
+block name system allocate block user root <*>  <*> temporary task <*> part <*>
